@@ -60,8 +60,8 @@ header:hover{
 }
 
 a.nav-link{
-	margin: 2px;
-	padding: 5px 10px;
+	/* margin: px; */
+	/* padding: 1px 10px; */
 	text-decoration: none;
 	color: var(--main-fonts-color);
 	font-family: var(--main-font-family);
@@ -442,3 +442,24 @@ hr {
 .nav-active{
 	transform:translatex(0%);
 }
+
+/* nav {
+    /* background-color: #333;
+    color: #fff;
+} */
+
+/* nav ul {
+    list-style-type: none;
+    padding: 0;
+} */
+
+nav ul li {
+    display: inline;
+    margin-right: 40px;
+}
+
+/* nav a {
+	font-family: var(--main-font-family);
+    color: #fff;
+    text-decoration: background;
+} */
