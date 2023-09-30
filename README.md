@@ -5,7 +5,8 @@
 
   1) Basic information and interests 
   2) My Projects
-  3) A chatbot where you can know more about me and even ask your queries.
+  3) Arch, a chatbot where you can know more about me and even ask your queries.
+  4) My resume
 </p>
 
 <h2>Feel Free to view my website</h2>  
